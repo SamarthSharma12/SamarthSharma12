@@ -1,5 +1,4 @@
-
-# Hi there 👋
+Hi there 👋 <br>
 I am Samarth Sharma, I'm 22 year old pre-final year student pursuing a batchelor's in B.Tech Computer Science, With Specialization in Data Science.
 
 ## ABOUT ME !
@@ -13,7 +12,7 @@ I love working on Research papers in AI and Data Science domain, I'm an enthusia
 1) Worked as Teaching Assistant in AI/ML for Coding Ninjas and Bennett University.
 2) Worked as a Technical Content Writer for IEEE and Sports Committee.
 
-# 📝: Skills 
+# 📝 Skills 
 
 ✨Python
 ✨Java
