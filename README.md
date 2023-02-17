@@ -14,16 +14,16 @@ I love working on Research papers in AI and Data Science domain, I'm an enthusia
 
 # 📝 Skills 
 
-✨Python
-✨Java
-✨Power BI
-✨Excel
-✨SQL/MySQL/Sqlite
-✨PyTorch
-✨HTML/CSS
-✨JavaScript
-✨IBM Cloud 
-✨Azure
+✨Python<br>
+✨Java<br>
+✨Power BI<br>
+✨Excel<br>
+✨SQL/MySQL/Sqlite<br>
+✨PyTorch<br>
+✨HTML/CSS<br>
+✨JavaScript<br>
+✨IBM Cloud <br>
+✨Azure<br>
 
 # :medal_military: Achivements
 1) Won the AI/ML Hackathon orgainzed by Data Couch
