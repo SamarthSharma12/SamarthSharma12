@@ -24,3 +24,7 @@ I love working on Research papers in AI and Data Science domain, I'm an enthusia
 ✨PyTorch
 ✨HTML/CSS
 ✨JavaScript
+
+# :medal_military: Achivements
+Won the AI/ML Hackathon orgainzed by Data Couch
+Having Letter Of Recommendation form the Prof. Dr. Kamlesh Tiwari for contributing in their projects [Link](https://drive.google.com/file/d/18d2ezzu00xZXYbvz9NXrTqk0--4fCKgZ/view?usp=sharing)
