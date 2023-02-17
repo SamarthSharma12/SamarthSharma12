@@ -23,7 +23,14 @@ I love working on Research papers in AI and Data Science domain, I'm an enthusia
 ✨PyTorch
 ✨HTML/CSS
 ✨JavaScript
+✨IBM Cloud 
+✨Azure
 
 # :medal_military: Achivements
 1) Won the AI/ML Hackathon orgainzed by Data Couch
-2) Having Letter Of Recommendation form the Prof. Dr. Kamlesh Tiwari for contributing in their projects [Link](https://drive.google.com/file/d/18d2ezzu00xZXYbvz9NXrTqk0--4fCKgZ/view?usp=sharing)
+2) Letter Of Recommendation form the Prof. Dr. Kamlesh Tiwari for contributing in their projects [Link](https://drive.google.com/file/d/18d2ezzu00xZXYbvz9NXrTqk0--4fCKgZ/view?usp=sharing)
+
+# Certifications
+1) [NVIDIA](https://courses.nvidia.com/certificates/e96a03f67aea48068fe534a1a6c087be/)
+2) [Cisco DevNetAssociate](https://www.credly.com/badges/ed032ee8-0562-444c-bc2f-f89073451c7d/linked_in_profile)
+and [Many More](https://www.linkedin.com/in/samarth-sharma-00a4631ba/details/certifications/) 
