@@ -1,5 +1,5 @@
 
-Hi there 👋
+Hi there 👋,
 I am Samarth Sharma, I'm 22 year old pre-final year student pursuing a batchelor's in B.Tech Computer Science, With Specialization in Data Science.
 
 ## ABOUT ME !
