@@ -4,11 +4,11 @@ I am Samarth Sharma, I'm 22 year old pre-final year student pursuing a batchelor
 ## ABOUT ME !
 I love working on Research papers in AI and Data Science domain, I'm an enthusiastic and avid learner and currently working as a undergrad AI research intern at my college under Dr. Umesh Gupta Sir .
 
-## :smile: Abhi Kya Chal Raha Hai(Current Roles)
+## :smile: Current Roles
 1) Currently working as a Campus Ambassador for Cisco and Coding Blocks.
 2) Upcomming intern as a Data Anayst at DataCouch
 
-## :grin:  Kya Ho Chuka (Prior Experiences)
+## :grin:  Prior Experiences
 1) Worked as Teaching Assistant in AI/ML for Coding Ninjas and Bennett University.
 2) Worked as a Technical Content Writer for IEEE and Sports Committee.
 
@@ -19,7 +19,7 @@ I love working on Research papers in AI and Data Science domain, I'm an enthusia
 ✨Power BI<br>
 ✨Excel<br>
 ✨SQL/MySQL/Sqlite<br>
-✨PyTorch<br>
+✨Tensorflow<br>
 ✨HTML/CSS<br>
 ✨JavaScript<br>
 ✨IBM Cloud <br>
