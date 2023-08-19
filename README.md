@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing](https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing)
 
+- ⚡ Fun fact **I've traveled to 10 different cities in India, and in each city, I tried the local street food and rated it. Turns out, my taste preferences correlate with data patterns – just like finding insights in datasets**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@samarthsharma_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@samarthsharma_1" height="30" width="40" /></a>
@@ -22,7 +24,7 @@
 <a href="https://kaggle.com/samarthsharma12315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="samarthsharma12315" height="30" width="40" /></a>
 <a href="https://instagram.com/samarthh_sharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthh_sharmaa" height="30" width="40" /></a>
 <a href="https://medium.com/@samrocks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@samrocks" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/samrocksindia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="samrocksindia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samtechofficial1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samtechofficial1" height="30" width="40" /></a>
 <a href="https://discord.gg/samarth7994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samarth7994" height="30" width="40" /></a>
 </p>
 
