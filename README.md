@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align ="right" alt = "coding" width ="300" src="https://miro.medium.com/v2/resize:fit:1358/1*Urc28sbnORGOW5oyohQ06g.gif">
+<img align ="right" alt = "coding" width ="350" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
 - 🔭 I’m currently working on **Unravelling Sales Insights**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing)
 
-- ⚡ Fun fact **I am Foodie **😃
+- ⚡ Fun fact I am Foodie 😃 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
