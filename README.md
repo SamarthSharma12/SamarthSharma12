@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align ="right" alt = "coding" width ="400" src ="![image](https://github.com/SamarthSharma12/SamarthSharma12/assets/98225415/0d1af456-2fb1-4509-a9b1-67d254378cd6)">
 
 - 🔭 I’m currently working on **Unravelling Sales Insights**
 
