@@ -6,17 +6,17 @@
 
 - 🌱 I’m currently learning **Deep Learning and Business Statistics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamarthSharma12?tab=repositories](https://github.com/SamarthSharma12?tab=repositories)
+- 👨‍💻 All of my projects are available at [Git](https://github.com/SamarthSharma12?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@samarthsharmaagrasabby](https://medium.com/@samarthsharmaagrasabby)
+- 📝 I regularly write articles on [Medium](https://medium.com/@samarthsharmaagrasabby)
 
 - 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **samtechofficial123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing](https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10gbVKP_3wCZ_fq5oJH_nrxle76bMqb89/view?usp=sharing)
 
-- ⚡ Fun fact **I've traveled to 10 different cities in India, and in each city, I tried the local street food and rated it. Turns out, my taste preferences correlate with data patterns – just like finding insights in datasets**
+- ⚡ Fun fact **I am Foodie **😃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
