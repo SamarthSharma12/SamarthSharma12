@@ -1,4 +1,4 @@
-![logo](https://github.com/SamarthSharma12/SamarthSharma12/blob/main/Data%20Scientist.png)
+![logo](https://github.com/SamarthSharma12/SamarthSharma12/blob/main/Data%20Scientist%20(3).png)
 <h1 align="center">Hi 👋, I'm Samarth Sharma</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align ="right" alt = "coding" width ="350" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
