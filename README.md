@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Git](https://github.com/SamarthSharma12?tab=repositories)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@samarthsharmaagrasabby)
+- 📝 I regularly write articles on [Medium](https://medium.com/@samrocks)
 
 - 💬 Ask me about **Machine Learning**
 
